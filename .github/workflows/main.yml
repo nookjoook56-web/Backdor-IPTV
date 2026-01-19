@@ -12,7 +12,7 @@ jobs:
           distribution: 'temurin'
       - name: Build with Gradle
         run: |
-          gradle wrapper --gradle-version 8.0.2
+          gradle init --type java-application --dsl groovy --project-name Backdor9 --package com.backdor.nine
           chmod +x gradlew
           ./gradlew assembleDebug
       - name: Upload APK

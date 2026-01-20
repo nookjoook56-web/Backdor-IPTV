@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087299574590",
+    "project_id": "backdor9-fdc83",
+    "storage_bucket": "backdor9-fdc83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087299574590:android:cd264977874a2ca0c5ea6f",
+        "android_client_info": {
+          "package_name": "com.canlitv.uygulaman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfrSrTOR5Huy1NE_AjDN135WQaKjkAjzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
